@@ -1,0 +1,9 @@
+void input();
+void cari();
+void edit();
+void hapus();
+void hasil();
+void info();
+void keluar();
+void bukadata();
+void proses();
